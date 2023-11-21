@@ -451,3 +451,6 @@ aside .icona {
     bottom: 100px;
   }
 }
+.imgLeft {
+  float: left;
+}
